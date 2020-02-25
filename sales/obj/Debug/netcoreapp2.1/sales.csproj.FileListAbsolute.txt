@@ -30,3 +30,4 @@
 /home/alexandre/Documents/dotnet/project/sales/obj/Debug/netcoreapp2.1/sales.dll
 /home/alexandre/Documents/dotnet/project/sales/obj/Debug/netcoreapp2.1/sales.pdb
 /home/alexandre/Documents/dotnet/project/sales/obj/Debug/netcoreapp2.1/sales.csproj.CopyComplete
+/home/alexandre/Documents/dotnet/project/sales/obj/Debug/netcoreapp2.1/Razor/Views/Departments/Index.g.cshtml.cs
